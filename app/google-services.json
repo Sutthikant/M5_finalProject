@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719789446560",
+    "project_id": "m5finalproject",
+    "storage_bucket": "m5finalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719789446560:android:ee2b35143404fb17f0c0c5",
+        "android_client_info": {
+          "package_name": "com.example.finalproject_forreal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_RXRK3B_dariK6_Wq1IfLefmbtIpb6a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
